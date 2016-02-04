@@ -1,2 +1,2 @@
 # hello-world
-Fist test repository
+First test repository
